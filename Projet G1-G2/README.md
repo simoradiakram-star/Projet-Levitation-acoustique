@@ -9,14 +9,14 @@ Le **TinyLev** est un lévitateur à ondes stationnaires.
 * **Objectif** : Valider les principes fondamentaux de la lévitation acoustique et tester la chaîne d'amplification.
 * **Caractéristique** : Utilise deux supports imprimés en 3D suivant une courbe prédéfinie pour focaliser les ultrasons au centre.
 
-## 2. Lévitateur à Simple Plaque (Monoplaque)
+## 2. Lévitateur à Simple Plaque
 
 Ce prototype marque le passage au contrôle dynamique via une matrice unique de **8x8 transducteurs**.
 
 * **Capacités** : Permet de tester les algorithmes de calcul de phase (**Optimizer** et **Vortex**).
 * **Limites** : Bien qu'il valide la création de pièges acoustiques, la force de lévitation reste limitée par l'absence d'une source d'opposition, rendant le piégeage d'objets lourds complexe.
 
-## 3. Lévitateur à Double Plaque (Bi-plaques)
+## 3. Lévitateur à Double Plaque
 
 Version la plus aboutie du projet, elle intègre deux matrices de transducteurs placées face à face.
 
