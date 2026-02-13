@@ -43,7 +43,7 @@ Ce projet est réalisé en partenariat avec le groupe **AIMAN-FILMS** de l'**IEM
 Voici l'architecture globale du GitHub :
 
 ```
-└── Projet G1-G2
+└── Projet-Levitation-acoustique
     ├── Lévitateur à deux plaques
     │   ├── Electronique
     │   │   ├── Circuits
@@ -51,9 +51,11 @@ Voici l'architecture globale du GitHub :
     │   ├── Informatique
     │   │   └── Communication 2 Arduino
     │   ├── Notices
-    │   └── Physique Théorique
-    │       ├── Calcul des phases
-    │       └── Photos
+    │   ├── Physique Théorique
+    │   │   ├── Calcul des phases
+    │   │   └── Photos
+    │   └── Résultats  <-- (Vidéos de lévitation, rapports de tests)
+    │
     ├── Lévitateur à une plaque
     │   ├── Electronique
     │   │   ├── Circuits
@@ -65,8 +67,11 @@ Voici l'architecture globale du GitHub :
     │   │   └── Codes Arduino Mega
     │   │       └── DriverMega
     │   ├── Notices
-    │   └── Physique théorique
-    │       ├── Calcul des phases
-    │       └── Photos
+    │   ├── Physique théorique
+    │   │   ├── Calcul des phases
+    │   │   └── Photos
+    │   └── Résultats  <-- (Vidéos, mesures de précision)
+    │
     └── TinyLev
+        └── Résultats  <-- (Démonstration du prototype compact)
 ```
