@@ -31,6 +31,8 @@ Version la plus aboutie du projet, elle intègre deux matrices de transducteurs 
 * Augmentation considérable de la **force de piégeage**.
 * **Stabilité supérieure** permettant la manipulation de liquides ou de plusieurs particules simultanément.
 
+![Photo_lévitation_1bille_bis](https://github.com/user-attachments/assets/5ec00c59-76de-461b-8b30-26c2e8120c32)
+
 ---
 
 *Pour comprendre le déroulement de notre projet plus en détail et avoir une vue d'ensemble, vous pouvez vous référer à la documentation technique située à la racine de ce dossier.*
