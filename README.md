@@ -4,6 +4,8 @@
 
 Développement d'un dispositif expérimental de manipulation sans contact par pinces acoustiques.
 
+![Photo_lévitation_1bille_bis](https://github.com/user-attachments/assets/04aab82e-780d-40c5-8d92-e87510602351)
+
 ---
 
 ### À propos
